@@ -1,4 +1,4 @@
-# 🌱 RANTING – RANTAI Inggris
+# 🍀 RANTING – RANTAI Inggris
 
 RANTING (RANTAI Inggris) is a gamified mini app to learn English step by step – from basics to advanced structures – with fun, interactive, and progressive content.  
 It is part of the **RANTAI ecosystem** (Research, Action, Network, Technology, Application, Innovation).
