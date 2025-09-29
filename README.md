@@ -39,11 +39,12 @@ Clone this repo and run the app:
 ```bash
 git clone https://github.com/yourusername/ranting.git
 cd ranting
+
+npm install
+npm run dev
 ```
 
 ---
 
 ## 📜 License
 MIT License © 2025 ELPEEF
-npm install
-npm run dev
